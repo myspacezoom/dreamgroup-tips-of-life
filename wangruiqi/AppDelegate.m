@@ -24,6 +24,7 @@
     NSLog(@"123");
     NSLog(@"%%%%%%%%%%%%");
     NSLog(@"1234566");
+    NSLog(@"liuzhongjie");
     
     return YES;
 }
