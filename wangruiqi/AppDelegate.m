@@ -21,7 +21,7 @@
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
     NSLog(@"我叫王瑞启");
-    
+    NSLog(@"123");
     
     
     
