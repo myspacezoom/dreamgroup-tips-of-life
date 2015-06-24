@@ -20,6 +20,11 @@
     // Override point for customization after application launch.
     self.window.backgroundColor = [UIColor whiteColor];
     [self.window makeKeyAndVisible];
+    NSLog(@"我叫王瑞启");
+    
+    
+    
+    
     return YES;
 }
 
